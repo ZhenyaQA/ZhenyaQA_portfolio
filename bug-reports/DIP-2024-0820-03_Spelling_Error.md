@@ -35,3 +35,6 @@
 # Патч в NLP-модели
 if "пришлу" in generated_text:
     corrected_text = generated_text.replace("пришлу", "пришлю")
+## 📎 Приложения
+
+![Скриншот ошибки](../screenshots/bug-reports/DIP-2024-0820-03_UI_Error.png)
